@@ -1,0 +1,17 @@
+.css
+- - - styles.css
+.html
+- - - index.html
+.js
+- - - js_is_good.js
+.py
+- - - some_python.py
+.sql
+- - - data_base.sql
+.txt
+- - - file.txt
+- - - output.txt
+- - - output_02.txt
+- - - report_04.txt
+- - - text_01.txt
+- - - text_02.txt
